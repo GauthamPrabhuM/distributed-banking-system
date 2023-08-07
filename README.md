@@ -3,11 +3,6 @@
 
 This was our submission for our Distributed Systems Lab Mini Project, CSE B, Batch of '24
 
-### Team Details:-
-* [Praveen Varma](https://github.com/geekyprawins/)
-* [Gautham Prabhu](https://github.com/GauthamPrabhuM)
-* [Sunag Kamath](https://github.com/sravikam)
-* [Yashwanth](https://github.com/yashwanth008)
 
 
 [Project Report](https://github.com/geekyprawins/distributed-banking-system/blob/master/DS%20Lab-Mini%20Project%20Report.pdf)
